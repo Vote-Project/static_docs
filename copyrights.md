@@ -1,7 +1,7 @@
 MongoDB Java Driver
 Copyright © 2008-present MongoDB, Inc.
 https://mongodb.github.io/mongo-java-driver/
-Apache License 2.01
+Apache License 2.0
 
 MongoDB
 © 2018 MongoDB, Inc.
